@@ -4,7 +4,19 @@ Notes for Computer Hardware and Softwares
 # System Unit Main Parts
 ## Power Supply
 ## CD - ROM
-## RAM
+SDRAM: Synchronous Dynamic Random Access Memory  
+ - SDRAM can only read/write one time per clock cycle  
+DDR: Double Data Rate  
+ - transfer data twice per clock cycle, enhancing the speed and efficiency of your system  
+ - DDR transfers data to the processor on both the downbeat and upbeat of the clock signal, so twice per cycle.  
+
+
+| Specification   | DRAM     | DDR      | DDR2     | DDR3      | DDR4       | DDR5        |
+|-----------------|----------|----------|----------|-----------|------------|-------------|
+| **Prefetch**    | 1-bit    | 2-bit    | 4-bit    | 8-bit     | Bit per Bank | 16-bit     |
+| **Data Rate**   | 100-166  | 266-400  | 533-800  | 1066-1600 | 2133-5100  | 3200-8000+  |
+| **Transfer Rate** | 0.8-1.3 | 2.1-3.2 | 4.2-6.4 | 8.5-14.9  | 17-25.6    | 38.4-51.2   |
+| **Voltage**     | 3.3      | 2.5-2.6  | 1.8      | 1.35-1.5  | 1.2        | 1.1         |
 ## Graphics Card (Optional)
 ## Storage Devices (HDD/ SSD/ NMVe)
 ## CPU
