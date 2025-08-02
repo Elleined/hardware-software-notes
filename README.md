@@ -18,6 +18,9 @@ DDR: Double Data Rate
 | **Transfer Rate** | 0.8-1.3 | 2.1-3.2 | 4.2-6.4 | 8.5-14.9  | 17-25.6    | 38.4-51.2   |
 | **Voltage**     | 3.3      | 2.5-2.6  | 1.8      | 1.35-1.5  | 1.2        | 1.1         |
 ## Graphics Card (Optional)
+### Ray Tracing: Mimic real-world light bbehavior, creating life like visuals
+### Variable Rate Shading: Optimizes rendering resources
+### Tensor Cores: Accelerate matrix computations.
 ## Storage Devices (HDD/ SSD/ NMVe)
 ## CPU
 ## CPU Fan
